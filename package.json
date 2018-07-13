@@ -1,7 +1,7 @@
 {
   "name": "@medeo/semantic-release-git",
   "description": "Set of semantic-release plugins to publish to a git repository",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Pierre Vanduynslager (https://github.com/pvdlg)",
   "bugs": {
     "url": "https://github.com/medeo/semantic-release-git/issues"

@@ -1,10 +1,10 @@
 {
-  "name": "@semantic-release/git",
+  "name": "@medeo/semantic-release-git",
   "description": "Set of semantic-release plugins to publish to a git repository",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "author": "Pierre Vanduynslager (https://github.com/pvdlg)",
   "bugs": {
-    "url": "https://github.com/semantic-release/git/issues"
+    "url": "https://github.com/medeo/semantic-release-git/issues"
   },
   "config": {
     "commitizen": {
@@ -48,7 +48,7 @@
     "lib",
     "index.js"
   ],
-  "homepage": "https://github.com/semantic-release/git#readme",
+  "homepage": "https://github.com/medeo/semantic-release-git#readme",
   "keywords": [
     "changelog",
     "commit",
@@ -86,7 +86,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/semantic-release/git.git"
+    "url": "https://github.com/medeo/semantic-release-git.git"
   },
   "scripts": {
     "cm": "git-cz",
